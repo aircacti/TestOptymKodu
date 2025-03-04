@@ -1,2 +1,5 @@
 # Ignorowanie katalogu .idea (JetBrains IDEs)
 .idea/
+
+#Ignoruj katalog repo
+.git/
